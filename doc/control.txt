@@ -1,0 +1,60 @@
+sunucu takip programi controller dokumantasyonu
+
+kim ne is yapacak?
+
+sunucu talep:
+
+formu kontrol et
+sunucuyu gecici tabloya ekle
+gerekli yerlere mail at
+
+sunucu upgrade talep:
+
+formu kontrol et
+sunucuyu gecici tabloya ekle
+gerekli yerlere mail at
+
+sunucu onay ekrani:
+
+formu kontrol et
+sunucuyu ana tabloya kaydet
+sunucuyu gecici tablodan sil
+
+sunucu edit ekrani:
+
+formu kontrol et
+sunucuyu ana tabloda degistir
+
+sunucu ekleme ekrani:
+
+formu kontrol et
+sunucuyu ana tabloya kaydet
+
+sunucu silme ekrani:
+
+sileyim mi diye sor
+sunucuyu silinen tablosuna kaydet
+sunucuyu ana tablodan sil
+
+sunucu listeleme ekrani:
+
+sunuculari listele, simdilik pagination yapma
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

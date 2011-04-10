@@ -1,0 +1,54 @@
+sunucu takip programi database dokumantasyonu
+
+simdi bizim canimizi sikan nedir?
+bir sunucunun hangi bilgilerini takip etmek istiyoruz?
+
+aslinda bunu tum envanter icin yapmak lazim
+ama su an icin benim canimi sikan is test sunuculari
+
+dolayisiyla sanal sunucu talep formunda olan bilgileri
+buraya koyacagim
+
+normal fieldlarin nasil olacagi belli
+disk bilgisine sadece ilginc bir sey yapmak gerekli
+
+Ana tablo:
+fieldlar:
+
+sunucu admini
+sunucu admini yoneticisi
+sunucu islevi
+sunucu isletim sistemi
+
+sunucu kurulum tarihi
+sunucu kaldirma tarihi (varsa)
+
+sunucu kapatilabilir mi? (kapali duracak, sorarak kapatilabilir, 8-5, kapatmayin)
+
+donanim cpu sayisi
+donanim mem miktari
+donanim ip
+donanim diskler (, karakteri ile ayirarak sanaldan verilen diskleri yaziyoruz)
+
+sunucu aciklamasi, notlari
+
+sanirim bunlar simdilik yeterli olur
+
+ekstra tablolar:
+pending operations, talep edilen isler burada bekliyor, anatablo ile ayni
+admin listesi
+silinenler tablosu, anatablo ile ayni
+isletim sistemleri listesi os, os ismi, sp, bit
+
+
+
+
+
+
+
+
+
+
+
+
+

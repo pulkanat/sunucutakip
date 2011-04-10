@@ -1,0 +1,19 @@
+sunucu takip programi view dokumantasyonu
+
+hangi ekranlar olacak?
+
+ana menu, hangi ekrana gidilecegi secilecek
+
+bir sunucu talep ekrani (disari)
+bir sunucu upgrade talep ekrani (disari)
+bir sunucu onay ekrani (bana)
+bir sunucu edit ekrani (bana)
+bir sunucu ekleme ekrani (bana)
+bir sunucu silme ekrani (bana)
+bir sunucu listeleme ekrani (disari?)
+
+
+
+
+
+
